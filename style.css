@@ -1,10 +1,21 @@
-body{
-    color: #e0d31b;
-    background-color:#363434;
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
+
+body{
+    color: #dabc3a;
+    background-color:#141414;
+ magin: 0px;:
+ margin-bottom: 100px;
+ font-family: "Roboto Mono", monospace;
 }
 
-h1{
 
-    color:#3870a5;
+
+h1{
+    color:#2f2ce4;
+    font-size: 35px;
+}
+
+p{
+    font-size: 25px;
 }
